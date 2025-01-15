@@ -1,12 +1,12 @@
-# AnguHashBlog 
+# HahsnodeWithAngular 
 
-|![merge-animation](/profile/anguhashblog-merge-animation.gif)| [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.com/invite/h3JXbADsBy) |
+|![merge-animation](/profile/hashnode-withangular-merge-animation.gif)| [![Discord](https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/discord.png?raw=true)](https://discord.com/invite/h3JXbADsBy) |
 |---|---|
 #### formerly known as - Angular Headless Hashnode
 
 ## Overview 
 
-### The **AnguHashBlog** Open Source Project 
+### The **HahsnodeWithAngular** Open Source Project 
 Seamlessly connects your Angular or Analog application to the Hashnode GraphQL
 API, providing a template integration with a headless Hashnode setup.
 
@@ -23,10 +23,10 @@ In other words - this project is very much like the starter kit that Hashnode pr
 
 ## LIVE VERSIONS
 
-| [![AnguHashBlog dark](/profile/anguhashblog-dark.jpg)](https://anguhashblog.com/) | [![AnguHashBlog light](/profile/anguhashblog-light.jpg)](https://anguhashblog.com/) |
+| [![HahsnodeWithAngular dark](/profile/hashnode-withangular-dark.jpg)](https://hashnode.withangular.dev/) | [![HahsnodeWithAngular light](/profile/hashnode-withangular-light.jpg)](https://hahsnode.withangular.dev/) |
 | - | - |                         
 
-### You can see the live versions on the [DEMO SITE](https://AnguHashBlog.com/)                             
+### You can see the live versions on the [DEMO SITE](https://hashnode.withangular.dev/)                             
 
 ## Contributing
 
